@@ -116,7 +116,7 @@ body{
      color: grey;
      font-size: 3.2vw;
      font-weight: 800;
-     width: 100%;
+     padding-left: 1vh;
      height: 5vh;
      border-bottom: 2px rgb(196, 196, 196) solid;
  }
